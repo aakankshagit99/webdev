@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Inter';
+
+}
+
+#box{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-color: burlywood;
+    padding: 100px;
+}
+
+#sbox{
+    height: 40%;
+    width:100%;
+    margin-top: 100px;
+    position: absolute;
+    left: 0px;
+    background-color: black;
+    color: white;
+}
+
+#mail{
+    border-width: 3px;
+    border-color: black;
+    height: 45px;
+    width: 270px;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+#reg{
+    height: 45px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+#p{
+    font-size: large;
+    margin-top: 13px;
+    line-height: 30px;
+}
+
+#img{
+    position: absolute;
+    bottom: 25%;
+    margin-top: 0%;
+    margin-left: 650px;
+}
+
+#h12{
+    margin-top: 10px;
+}
+#h11,#h12{
+    font-size: 35px;
+}
+
+#p1{
+    font-family: 'Inter';
+    font-size: large;
+    margin-top: 37px;
+    margin-left: 110px;
+    line-height: 30px;
+    color: whitesmoke;
+}
+
+#p2{
+    font-size: large;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 890px;
+    top: 37px;
+    text-align: right;
+    line-height: 30px;
+}
+
+#insta{
+    position: absolute;
+    top: 100px;
+    left:77.5%;
+}
+
+#linke{
+    position: absolute;
+    top: 100px;
+    left:75%;   
+}
+
+#p3{
+    color: whitesmoke;
+    font-size: large;
+    position: absolute;
+    margin-left: 957px;
+    top: 160px;
+    text-align: right;  
+}
+
+#whit{
+    margin-top: 10px;
+    color: white;
+    font-size: 14px;
+    margin-left: 17px;
+}
